@@ -1,4 +1,12 @@
-## Hi there 👋
+## Joonas Cohen
+Working as a SysAdmin @ HP
+
+Love to explore and learn new technologies, especially pertaining to Linux
+
+Some of the stuff I've been focusing on is:
+- Bash Scripting
+- NixOS
+- Reproduceability of my configuration (both through standard [dotfiles](https://github.com/joonascohen/dot.files) and through NixOS
 
 <!--
 **joonascohen/joonascohen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
